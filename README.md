@@ -1,8 +1,8 @@
 # Finance-and-Risk-Analytics
 
-**PART A: 
+**PART A:**
 
-Problem Statement:**
+**Problem Statement:**
 
 Businesses or companies can fall prey to default if they are not able to keep up their debt obligations. Defaults will lead to a lower credit rating for the company which in turn reduces its chances of getting credit in the future and may have to pay higher interest on existing debts as well as any new obligations. From an investor's point of view, he would want to invest in a company if it is capable of handling its financial obligations, can grow quickly, and is able to manage the growth scale.
 
@@ -14,9 +14,9 @@ Dependent variable - No need to create any new variable, as the 'Default' variab
 
 Test Train Split - Split the data into train and test datasets in the ratio of 67:33 and use a random state of 42 (random_state=42). Model building is to be done on the train dataset and model validation is to be done on the test dataset.
 
-**
-PART B: 
 
-Problem Statement:**
+**PART B:**
+
+**Problem Statement:**
 
 The dataset contains 6 years of information(weekly stock information) on the stock prices of 10 different Indian Stocks. Calculate the mean and standard deviation on the stock returns and share insights. You are expected to do the Market Risk Analysis using Python.
